@@ -22,10 +22,10 @@ Async since `0x0A`.
 <div align="left">
 
 🧱 **Core stack:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Python | JavaScript | FastAPI | Django | PostgreSQL | Redis | Docker
+&nbsp;&nbsp;&nbsp;&nbsp;Python | JavaScript | React | FastAPI | Django | PostgreSQL | Redis | Docker
 
 📡 **Async & bots:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Telethon | asyncio | RabbitMQ | Celery | TaskIQ
+&nbsp;&nbsp;&nbsp;&nbsp;Telethon | Aiogram | Asyncio | RabbitMQ | Celery | TaskIQ
 
 ⚙️ **Infra & DevOps:**  
 &nbsp;&nbsp;&nbsp;&nbsp;GitHub Actions | CI/CD | Microservice orchestration
