@@ -52,7 +52,7 @@ Async since `0x0A`.
 - 📊 Matplotlib | Seaborn  
 - ⚙️ Building and tuning ML pipelines, experimenting with optimization & visual analysis
 
----
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
