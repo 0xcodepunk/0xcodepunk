@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xcodepunk/0xcodepunk/main/back_ground.png" alt="0xcodepunk banner" />
+  <img src="https://raw.githubusercontent.com/0xcodepunk/0xcodepunk/main/header.png" alt="0xcodepunk banner" />
 </p>
 
 ---
