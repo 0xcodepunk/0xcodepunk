@@ -24,12 +24,8 @@ Async since `0x0A`.
 🧱 **Core stack:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Python • JavaScript • FastAPI • PostgreSQL • Redis • Docker
 
-<br>
-
 📡 **Async & bots:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Telethon • asyncio • RabbitMQ • Celery • TaskIQ
-
-<br>
 
 ⚙️ **Infra & DevOps:**  
 &nbsp;&nbsp;&nbsp;&nbsp;GitHub Actions • CI/CD • Microservice orchestration
