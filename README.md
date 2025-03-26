@@ -48,8 +48,8 @@ Async since `0x0A`.
 
 ### 🧪 ML & Data Tools
 
-- 🧠 Optuna • scikit-learn • NumPy • Pandas  
-- 📊 Matplotlib • Seaborn  
+- 🧠 Optuna | scikit-learn | NumPy | Pandas  
+- 📊 Matplotlib | Seaborn  
 - ⚙️ Building and tuning ML pipelines, experimenting with optimization & visual analysis
 
 ---
@@ -61,6 +61,8 @@ Async since `0x0A`.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="Scikit-Learn" />
 </div>
+
+---
 
 ### 📊 GitHub Stats
 
