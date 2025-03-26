@@ -22,7 +22,7 @@ Async since `0x0A`.
 <div align="left">
 
 🧱 **Core stack:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Python | JavaScript | React | FastAPI | PostgreSQL | Redis | Docker
+&nbsp;&nbsp;&nbsp;&nbsp;Python | JavaScript | FastAPI | Django | PostgreSQL | Redis | Docker
 
 📡 **Async & bots:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Telethon | asyncio | RabbitMQ | Celery | TaskIQ
@@ -39,6 +39,7 @@ Async since `0x0A`.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis" />
