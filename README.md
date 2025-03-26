@@ -24,10 +24,10 @@ Async since `0x0A`.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
 </div>
 
 <div align="left">
+  <br>
   🧠 Telethon • asyncio • RabbitMQ • Celery • TaskIQ  
   ⚙️ GitHub Actions • CI/CD • Microservice orchestration
 </div>
