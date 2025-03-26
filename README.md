@@ -46,6 +46,15 @@ Async since `0x0A`.
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xcodepunk&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcodepunk&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
 ### 📫 Reach Me
 
 - Telegram: [@Crypto_Blinder](https://t.me/Crypto_Blinder)
