@@ -27,10 +27,19 @@ Async since `0x0A`.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis" />
 </div>
 
+### 🛠 Tech Stack
+
 <div align="left">
-  <br>
-  🧠 Telethon • asyncio • RabbitMQ • Celery • TaskIQ  
-  ⚙️ GitHub Actions • CI/CD • Microservice orchestration
+
+🧠 **Core stack:**  
+&nbsp;&nbsp;&nbsp;&nbsp;Python • JavaScript • FastAPI • PostgreSQL • Redis • Docker
+
+📡 **Async & bots:**  
+&nbsp;&nbsp;&nbsp;&nbsp;Telethon • asyncio • RabbitMQ • Celery • TaskIQ
+
+⚙️ **Infra & DevOps:**  
+&nbsp;&nbsp;&nbsp;&nbsp;GitHub Actions • CI/CD • Microservice orchestration
+
 </div>
 
 ---
