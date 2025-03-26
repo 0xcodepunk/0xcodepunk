@@ -4,14 +4,14 @@
 
 ---
 
-### 🧠 About Me
+### 👾 About Me
 
 **Crypto_Blinder** aka **0xcodepunk**  
 Async since `0x0A`.
 
-🚀 Building bots, breaking norms, and deploying async dreams.  
-🧬 Deep into Python, automation, and digital autonomy.  
-👁 Currently exploring the edges of code and cryptography.
+🤖 Building bots, breaking norms, and deploying async dreams.  
+⚙️ Deep into Python, automation, and digital autonomy.  
+🧠 Building AI-powered services. Learning ML along the way.
 
 ---
 
