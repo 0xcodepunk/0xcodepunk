@@ -7,7 +7,7 @@
 ### 🧠 About Me
 
 **Crypto_Blinder** aka **0xcodepunk**  
-Rewriting protocols since `0x00`.
+Async since `0x0A`.
 
 🚀 Building bots, breaking norms, and deploying async dreams.  
 🧬 Deep into Python, automation, and digital autonomy.  
@@ -17,7 +17,7 @@ Rewriting protocols since `0x00`.
 
 ### 🛠 Tech Stack
 
-- Python / FastAPI / Telethon / asyncio
+- Python / Java Script / FastAPI / Telethon / asyncio
 - PostgreSQL / Redis / Docker
 - RabbitMQ / Celery / TaskIQ
 - GitHub Actions / CI / Microservice orchestration
