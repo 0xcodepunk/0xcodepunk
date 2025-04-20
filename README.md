@@ -74,6 +74,7 @@ Async since `0x0A`.
 
 ### 📫 Reach Me
 
-- Telegram: [@Crypto_Blinder](https://t.me/Crypto_Blinder)
+![Static Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FCrypto_Blinder)
+
 
 ---
