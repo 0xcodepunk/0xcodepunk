@@ -74,6 +74,6 @@ Async since `0x0A`.
 
 ### 📫 Reach Me
 
-- [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Crypto_Blinder)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Crypto_Blinder)
 
 ---
