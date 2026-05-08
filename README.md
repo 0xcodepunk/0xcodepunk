@@ -88,8 +88,8 @@ Async since `0x0A`.
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xcodepunk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcodepunk&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xcodepunk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xcodepunk&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
